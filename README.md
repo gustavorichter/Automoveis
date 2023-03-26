@@ -14,3 +14,9 @@ Stop Server
 Rebuild Server
 
 - <b>docker-compose up -d --build</b>
+
+#### 2. Acesso projeto
+
+http://localhost:9090/
+
+http://localhost:7070/
